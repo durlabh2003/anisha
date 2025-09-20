@@ -21,7 +21,7 @@ const App = () => {
       </div>
 
       <div className="section">
-        <h3>About Priya Gupta</h3>
+        <h3>About</h3>
         <p>A multi-set studio for rentals, all types of photo and video shoots, workshops and styling. Get end-to-end support or customisation along with the space!</p>
       </div>
 
