@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div className="profile-card">
       <div className="header">
-        <img src="src\assets\Profile.png" alt="Profile Avatar" className="avatar" />
+        <img src="https://firebasestorage.googleapis.com/v0/b/tapinfi-web-23914.firebasestorage.app/o/User'sDocs%2FAnishaAgarwal%2FProfile.png?alt=media&token=bde09b92-9923-47b6-8203-64bb14776003" alt="Profile Avatar" className="avatar" />
         <h2>Anisha Agarwal</h2>
         <p>Founder & Stylist at Studio Allspice</p>
         <div className="contact">
@@ -33,9 +33,9 @@ const App = () => {
       <div className="section">
         <h3>Social Links</h3>
         <div className="social">
-          <a href="https://maps.app.goo.gl/fYkemZ1Gg8SfJJJm6?g_st=com.google.maps.preview.copy"><img src="src\assets\Location.png" alt="Location" /></a>
-          <a href="https://www.instagram.com/studioallspice?igsh=MTk0bmZrOXR1NDE0MA%3D%3D&utm_source=qr"><img src="src\assets\Instagram.png" alt="Instagram" /></a>
-          <a href="https://studioallspice.com/"><img src="src\assets\World-wide-web.png" alt="Website" /></a>
+          <a href="https://maps.app.goo.gl/fYkemZ1Gg8SfJJJm6?g_st=com.google.maps.preview.copy"><img src="https://firebasestorage.googleapis.com/v0/b/tapinfi-web-23914.firebasestorage.app/o/User'sDocs%2FAnishaAgarwal%2FLocation.png?alt=media&token=d0419bc3-f840-4ed5-9be4-8b4dda97114b" alt="Location" /></a>
+          <a href="https://www.instagram.com/studioallspice?igsh=MTk0bmZrOXR1NDE0MA%3D%3D&utm_source=qr"><img src="https://firebasestorage.googleapis.com/v0/b/tapinfi-web-23914.firebasestorage.app/o/User'sDocs%2FAnishaAgarwal%2FInstagram.png?alt=media&token=d430c18b-4c85-4231-8013-f53935ae04be" alt="Instagram" /></a>
+          <a href="https://studioallspice.com/"><img src="https://firebasestorage.googleapis.com/v0/b/tapinfi-web-23914.firebasestorage.app/o/User'sDocs%2FAnishaAgarwal%2FWorld-wide-web.png?alt=media&token=83dd346a-020e-4c58-ae52-d3a31ff332bc" alt="Website" /></a>
         </div>
       </div>
 
