@@ -24,7 +24,6 @@ const App = () => {
         <h3>About</h3>
         <p>A multi-set studio for rentals, all types of photo and video shoots, workshops and styling. Get end-to-end support or customisation along with the space!</p>
       </div>
-
       <div className="section">
         <h3>Company’s Portfolio</h3>
         <a href="https://firebasestorage.googleapis.com/v0/b/tapinfi-web-23914.firebasestorage.app/o/User'sDocs%2FAnishaAgarwal%2FStudio%20Allspice.pdf?alt=media&token=57937225-c8db-473e-a9b8-658d0485a513" className="portfolio">Company Brochure</a>
